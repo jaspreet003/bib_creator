@@ -1,6 +1,6 @@
 /*
-ID: 2133158 , 2211239
-Name: Sandeep Singh , Jaspreet Kaur
+ID: 2211239
+Name: Jaspreet Kaur
 */
 
 
@@ -16,8 +16,6 @@ public class BibCreator {
     public static void main(String[] args) throws IOException {
         String basePathToFiles = "C:\\Users\\Jaspreet\\Documents\\Advance OOP\\BibCreator\\src\\files\\";
         String outputBasePath = "C:\\Users\\Jaspreet\\Documents\\Advance OOP\\BibCreator\\src\\files\\";
-  //      String basePathToFiles = "/Users/sandeepsingh/IdeaProjects/BibCreator/src/files/";
- //       String outputBasePath = "/Users/sandeepsingh/IdeaProjects/BibCreator/src/outputFiles/";
 
 
         int noOfFiles = 10;
